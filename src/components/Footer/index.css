@@ -1,0 +1,13 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #cbd5e1;
+  height: 150px;
+  margin-top: 20px;
+}
+
+.footer-heading {
+  color: #475569;
+  font-size: 62px;
+}

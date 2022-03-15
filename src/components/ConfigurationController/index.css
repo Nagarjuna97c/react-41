@@ -1,0 +1,23 @@
+.configuration-controller {
+  background-color: #475569;
+  display: flex;
+  flex-direction: column;
+  padding-left: 10%;
+}
+
+.configuration-heading {
+  color: #e2e8f0;
+  font-size: 48px;
+}
+
+.checkbox {
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  margin-bottom: 15px;
+}
+
+.label {
+  color: #f1f5f9;
+  font-size: 18px;
+}
